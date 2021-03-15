@@ -1,3 +1,3 @@
 # GoestadisticaPython
-Nubeminera
-Curso realizado
+# Nubeminera
+# Curso realizado
